@@ -20,4 +20,14 @@ nltk.download('punkt')
 
 W celu wizualizacji architektury sieci neuronowych należy zainstalować program `graphviz` https://graphviz.org/download/.
 
-Niektóre notebooki wymagają pobrania wcześniej wytrenowanych modeli. Można je pobrać ze strony http://vectors.nlpl.eu/repository/ . Pierwszy z modeli jest wytrenowany na korpusie `English CoNLL17 corpus` z rozmiarem wektrów `100` oraz numerem ID `40`. Drugi został wytrenowane na korpusie `Polish CoNLL17` z rozmiarem wektorów `100` oraz numerem ID `62`. Oba pobrane archiwa `.zip` należy rozpakować w folderze `pretrained_models` katalogu roboczego.
+Niektóre notebooki wymagają pobrania wcześniej wytrenowanych modeli. Można je pobrać ze strony http://vectors.nlpl.eu/repository/ . Dane pierwszego modelu do pobrania:
+- ID: `40`
+- Corpus: `English CoNLL17 corpus`
+- Vector size: `100`
+
+Dane drugiego modelu do pobrania:
+- ID: `62`
+- Corpus: `Polish CoNLL17 corpus`
+- Vector size: `100`
+
+Oba pobrane archiwa `.zip` należy rozpakować w folderze `pretrained_models` katalogu roboczego.
