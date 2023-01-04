@@ -1,4 +1,4 @@
-# projekt-inzynierski
+# Projekt inżynierski Wojciech Żyła
 
 Notebooki z poszczególnymi algorytmami znajdują się folderze `notebooks`. 
 W celu poprawnego uruchomienia kodu naley mieć zainstalowany interpreter języka `Python 3.8.0`.
